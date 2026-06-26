@@ -1,6 +1,6 @@
-# Hi there 👋, I'm Kanaka Raja
+# Hi there 👋, I'm Kanaka Raja G
 
-### 🚀 Aspiring Software Developer | Java | React | Full Stack Developer
+#### 🚀 Aspiring Software Developer | Java | React | Full Stack Developer
 
 I'm a passionate software developer who enjoys building web applications and solving programming problems. Currently, I'm focused on improving my skills in Java, Data Structures & Algorithms, React.js, and Full Stack Development.
 
